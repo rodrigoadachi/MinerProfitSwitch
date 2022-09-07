@@ -2,13 +2,13 @@
 
 # Basic
 
-cost: You must fill in the energy cost
+**cost:** You must fill in the energy cost
 
-farmId: You must fetch your farmID in hiveos API
+**farmId:** You must fetch your farmID in hiveos API
 
-workerId: You must fetch your workerID in hiveos API
+**workerId:** You must fetch your workerID in hiveos API
 
-token: Create your token in your hiveos account, in the sessions tab (Personal Tokens)
+**token:** Create your token in your hiveos account, in the sessions tab (Personal Tokens)
 
 # Coins
 
@@ -59,5 +59,5 @@ For example for Ethereum the symbol is ETH, in turn the Flight Sheets must be na
 
 # futures
 
-[] Dual Mining
-[] Coin Overclock Set (also for dualcoin)
+- [ ] Dual Mining
+- [ ] Coin Overclock Set (also for dualcoin)
