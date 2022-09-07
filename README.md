@@ -24,6 +24,8 @@ For each coin, an object must be filled out containing the following:
 
 
 Ex:
+    ...
+
 {
   "cost": 0.0,
   "hiveos": {
@@ -38,18 +40,15 @@ Ex:
       "hashrate": 60.0,
       "power": 140.0
     },
-
-    ...
-
     {
       "coin": "SERO",
       "enable": true,
       "hashrate": 20.36,
       "power": 130.0
     }
-
   ]
 }
+    ...
 
 # Flight Sheets
 
