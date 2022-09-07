@@ -1,6 +1,6 @@
 ## Configuration in config.json
 
-# Básico
+# Basic
 
 cost: You must fill in the energy cost
 
@@ -10,7 +10,7 @@ workerId: You must fetch your workerID in hiveos API
 
 token: Create your token in your hiveos account, in the sessions tab (Personal Tokens)
 
-# coins
+# Coins
 
 !! Here you need to have knowledge about the data structure of a JSON
 
