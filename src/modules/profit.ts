@@ -39,7 +39,11 @@ export async function GetProfit(priceCoin: any[]){
       
     }
     
-    return result
+    const sortProfit = await result.sort((a, b) => {
+      return a.revProfit - b.revProfit;
+    })
+
+    return sortProfit
 
   } catch (error: any) {
     let msg: string = JSON.stringify({ module: "GetProfit", erro: error})
