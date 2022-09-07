@@ -15,17 +15,18 @@ token: Create your token in your hiveos account, in the sessions tab (Personal T
 !! Here you need to have knowledge about the data structure of a JSON
 
 For each coin, an object must be filled out containing the following:
+```json
     {
       "coin": "ETH", << The currency symbol
       "enable": false, << Can enable or disable coin mining
       "hashrate": 60.0, << Total hashrate mining this coin
       "power": 140.0 << Total power mining this coin
     }
+```
 
 
 Ex:
-    ...
-
+```json
 {
   "cost": 0.0,
   "hiveos": {
@@ -48,7 +49,7 @@ Ex:
     }
   ]
 }
-    ...
+```
 
 # Flight Sheets
 
