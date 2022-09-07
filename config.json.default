@@ -1,0 +1,73 @@
+{
+  "cost": 0.0,
+  "hiveos": {
+    "farmId": 0,
+    "workerId": 0,
+    "token": "hiveonToken"
+  },
+  "coins": [
+    {
+      "coin": "ETH",
+      "enable": false,
+      "hashrate": 60.0,
+      "power": 140.0
+    },
+    {
+      "coin": "ETH+KAS",
+      "enable": false,
+      "hashrate": 99.52,
+      "hashrate2": 107.5,
+      "power": 144.0
+    },
+    {
+      "coin": "ETH+NEOX",
+      "enable": false,
+      "hashrate": 105.13,
+      "hashrate2": 109.04,
+      "power": 233.0
+    },
+    {
+      "coin": "ERG",
+      "enable": true,
+      "hashrate": 146.4,
+      "power": 109.0
+    },
+    {
+      "coin": "CFX",
+      "enable": true,
+      "hashrate": 48.22,
+      "power": 130.0
+    },
+    {
+      "coin": "RVN",
+      "enable": true,
+      "hashrate": 29.02,
+      "power": 170.0
+    },
+    {
+      "coin": "NEOX",
+      "enable": true,
+      "hashrate": 29.32,
+      "power": 172.0
+    },
+    {
+      "coin": "FIRO",
+      "enable": true,
+      "hashrate": 26.05,
+      "power": 163.0
+    },
+    {
+      "coin": "KAS",
+      "enable": true,
+      "hashrate": 341.7,
+      "power": 130
+    },
+    {
+      "coin": "SERO",
+      "enable": true,
+      "hashrate": 20.36,
+      "power": 130.0
+    }
+
+  ]
+}
