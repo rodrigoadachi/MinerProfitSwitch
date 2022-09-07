@@ -1,0 +1,124 @@
+{
+  "whattomine": [
+    {
+      "name": "eth",
+      "coins": ["ETH", "Nicehash-Ethash"],
+      "algorithm": "Etash"
+    },
+    {
+      "name": "e4g",
+      "coins": ["ETC", "UBQ","CLO","QKC","ETHO","EXP","ETP","EGEM","ESN"],
+      "algorithm": "Ethash4G"
+    },
+    {
+      "name": "zh",
+      "coins": ["BTCZ","BTG","Nicehash-Zhash","GLINK"],
+      "algorithm": "Zhash"
+    },
+    {
+      "name": "cnh",
+      "coins": ["BLOC","XHV"],
+      "algorithm": "CNHeavy"
+    },
+    {
+      "name": "cng",
+      "coins": ["RYO","CCX","XEQ"],
+      "algorithm": "CNGPU"
+    },
+    {
+      "name": "cnf",
+      "coins": ["MSR"],
+      "algorithm": "CNFast"
+    },
+    {
+      "name": "cx",
+      "coins": ["CTXC"],
+      "algorithm": "Cortex"
+    },
+    {
+      "name": "eqa",
+      "coins": ["AION"],
+      "algorithm": "Aion"
+    },
+    {
+      "name": "cc",
+      "coins": ["Nicehash-CuckooCycle","AE","TUBE"],
+      "algorithm": "CuckooCycle"
+    },
+    {
+      "name": "cr29",
+      "coins": ["XWP"],
+      "algorithm": "Cuckaroo(d)29"
+    },
+    {
+      "name": "ct31",
+      "coins": ["MWC","Nicehash-Cuckatoo31"],
+      "algorithm": "Cuckatoo31"
+    },
+    {
+      "name": "ct32",
+      "coins": ["GRIN","Nicehash-Cuckatoo32"],
+      "algorithm": "Cuckatoo32"
+    },
+    {
+      "name": "eqb",
+      "coins": ["Nicehash-BeamV3","BEAM"],
+      "algorithm": "Beam"
+    },
+    {
+      "name": "rmx",
+      "coins": ["QRL","XMR","Nicehash-RandomX"],
+      "algorithm": "RandomX"
+    },
+    {
+      "name": "ns",
+      "coins": ["Nicehash-NeoScrypt","TZC","FTC","GBX"],
+      "algorithm": "NeoScrypt"
+    },
+    {
+      "name": "al",
+      "coins": ["ERG","Nicehash-Autolykos"],
+      "algorithm": "Autolykos2"
+    },
+    {
+      "name": "ops",
+      "coins": ["CFX","Nicehash-Octopus"],
+      "algorithm": "Octopus"
+    },
+    {
+      "name": "eqz",
+      "coins": ["YEC"],
+      "algorithm": "EquihashZero"
+    },
+    {
+      "name": "zlh",
+      "coins": ["Nicehash-ZelHash","FLUX"],
+      "algorithm": "ZelHash"
+    },
+    {
+      "name": "kpw",
+      "coins": ["RVN","Nicehash-KawPow","NEOX"],
+      "algorithm": "KAWPOW"
+    },
+    {
+      "name": "ppw",
+      "coins": ["ZANO","SERO"],
+      "algorithm": "ProgPow"
+    },
+    {
+      "name": "x25x",
+      "coins": ["SIN"],
+      "algorithm": "X25X"
+    },
+    {
+      "name": "fpw",
+      "coins": ["FIRO"],
+      "algorithm": "FiroPoW"
+    },
+    {
+      "name": "vh",
+      "coins": ["VTC"],
+      "algorithm": "Verthash"
+    }
+  ]
+}
