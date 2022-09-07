@@ -61,3 +61,8 @@ For example for Ethereum the symbol is ETH, in turn the Flight Sheets must be na
 
 - [ ] Dual Mining
 - [ ] Coin Overclock Set (also for dualcoin)
+
+# contact
+
+**discord: rodrigoadachi#5085**
+
